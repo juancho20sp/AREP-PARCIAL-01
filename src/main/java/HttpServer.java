@@ -98,7 +98,7 @@ public class HttpServer {
             return "HTTP/1.1 200 OK\r\n"
                     + "Content-Type: "+"text/html"+"\r\n"
                     + "\r\n"
-                    + "<a href='http://localhost:1234/clima'>Vamos al home page!</a>";
+                    + "<a href='https://parcial-01-arep-murillo.herokuapp.com/clima'>Vamos al home page!</a>";
         }
     }
 
